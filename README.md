@@ -8,31 +8,17 @@
 
 ## Compétences
 
-### Langages de programmation et Frameworks
-| Langages               | Framework       |
-|-----------------------|-----------------|
-| 💡 JavaScript         | 🅰️ Angular      |
-| 🐍 Python              | 🌱 Django       |
-| ☕ Java                | 🎭 Spring Boot  |
+### Languages de Programmation
+💡 JavaScript   🐍 Python   ☕ Java
+
+### Frameworks
+🅰️ Angular (JavaScript)   🌐 Django (Python)   🎭 Spring Boot (Java)
 
 ### DevOps
-- 📅 Jira
-- 🔄 Git
-- 🚀 Jenkins
-- 🐳 Docker
-- ☸️ Kubernetes
-- 🔄 Ansible
-- 📈 Prometheus
-- 📊 Grafana
-- ☁️ Azure
+📅 Jira   🔄 Git   🚀 Jenkins   🐳 Docker   ☸️ Kubernetes   🔄 Ansible   📈 Prometheus   📊 Grafana   ☁️ Azure
 
-### Automatisation des tests
-- 🧪 TestLink
-- 🤖 Sélénium
-- 📝 TestNG
-- 📬 Postman
-- ⚙️ Jmeter
-- 🤖 Robot Framework
+### Automatisation des Tests
+🧪 TestLink   🤖 Sélénium   📝 TestNG   📬 Postman   ⚙️ Jmeter   🤖 Robot Framework
 
 ## Me Contacter
 - 📧 Email : [faten.gargouri@hotmail.com](mailto:faten.gargouri@hotmail.com)
