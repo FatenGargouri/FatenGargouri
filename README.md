@@ -1,17 +1,14 @@
 # Bienvenue sur mon Profil GitHub 👋
 
-Je suis Faten Gargouri
-
 ## À Propos de Moi
 
 - 🔬 Élève ingénieure en informatique
-- 🚀 Passionnée par DevOps et l'automatisation des tests .
+- 🚀 Passionnée par DevOps et l'acquisation des aspects qui apparaissent chaque jour 
 - 🌐 Toujours avide d'apprendre et de suivre les dernières avancées technologiques
 
 ## Compétences
 
 - 💻 DevOps, CI/CD, Docker
-- 🧪 Test des logiciels, Stratégies de tests automatisés
 - 📊 Gestion de projet, Communication, Résolution de problèmes
 
 ## Me Contacter
