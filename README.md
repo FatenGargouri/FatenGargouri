@@ -1,5 +1,5 @@
 # Bienvenue sur mon Profil GitHub 👋
-![DevOps](https://raw.githubusercontent.com/FatenGargouri/FatenGargouri/main/devops1.png)
+![DevOps](https://raw.githubusercontent.com/FatenGargouri/FatenGargouri/main/devopss.png)
 
 ## À Propos de Moi
 
