@@ -1,5 +1,6 @@
 # Bienvenue sur mon Profil GitHub 👋
-![devops.png]([https://github.com/FatenGargouri/FatenGargouri/devops1.png](https://github.com/FatenGargouri/FatenGargouri/blob/main/devops.png))
+![DevOps](https://raw.githubusercontent.com/FatenGargouri/FatenGargouri/main/devops.png)
+
 ## À Propos de Moi
 
 - 🔬 Élève ingénieure en informatique
