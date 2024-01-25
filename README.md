@@ -1,16 +1,23 @@
-### Hi there 👋
+# Bienvenue sur mon Profil GitHub 👋
 
-<!--
-**FatenGargouri/FatenGargouri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis Faten Gargouri
 
-Here are some ideas to get you started:
+## À Propos de Moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔬 Élève ingénieure en informatique
+- 🚀 Passionnée par DevOps et l'automatisation des tests .
+- 🌐 Toujours avide d'apprendre et de suivre les dernières avancées technologiques
+
+## Compétences
+
+- 💻 DevOps, CI/CD, Docker
+- 🧪 Test des logiciels, Stratégies de tests automatisés
+- 📊 Gestion de projet, Communication, Résolution de problèmes
+
+## Me Contacter
+
+- 📧 Email : [faten.gargouri@hotmail.com](mailto:faten.gargouri@hotmail.com)
+- 🔗 LinkedIn : [Faten Gargouri](https://www.linkedin.com/in/faten-gargouri/)
+- 💼 GitHub : [github.com/FatenGargouri](https://github.com/FatenGargouri)
+
+N'hésitez pas à explorer mes projets et à me contacter pour discuter de collaborations passionnantes ou simplement échanger sur le monde de la technologie!
