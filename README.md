@@ -8,17 +8,34 @@
 
 ## Compétences
 ### Langages de programmation
-<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript">
-<img alt="Static Badge" src="https://img.shields.io/badge/Python">
-<img alt="Static Badge" src="https://img.shields.io/badge/Java">
+- 💡 JavaScript
+- 🐍 Python
+- ☕ Java
 
+### Frameworks
+- 🌐 Django 
+- 📦 Odoo 
+- 🌐 Spring Boot 
+- 🅰️ Angular 
 
 ### Automatisation des tests
-![TestLink](https://.../testlink-logo.png) ![Sélénium](https://.../selenium-logo.png) ![TestNG](https://.../testng-logo.png) ![Postman](https://.../postman-logo.png) ![Jmeter](https://.../jmeter-logo.png) ![Robot Framework](https://.../robot-framework-logo.png)
+- 🧪 TestLink
+- 🤖 Sélénium
+- 📝 TestNG
+- 📬 Postman
+- ⚙️ Jmeter
+- 🤖 Robot Framework
 
 ### Outils DevOps
-![Jira](https://.../jira-logo.png) ![Git](https://.../git-logo.png) ![Jenkins](https://.../jenkins-logo.png) ![Docker](https://.../docker-logo.png) ![Kubernetes](https://.../kubernetes-logo.png) ![Ansible](https://.../ansible-logo.png) ![Prometheus](https://.../prometheus-logo.png) ![Grafana](https://.../grafana-logo.png) ![Azure](https://.../azure-logo.png)
-
+- 📅 Jira
+- 🔄 Git
+- 🚀 Jenkins
+- 🐳 Docker
+- ☸️ Kubernetes
+- 🔄 Ansible
+- 📈 Prometheus
+- 📊 Grafana
+- ☁️ Azure
 ## Me Contacter
 
 - 📧 Email : [faten.gargouri@hotmail.com](mailto:faten.gargouri@hotmail.com)
