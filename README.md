@@ -3,20 +3,16 @@
 
 ## À Propos de Moi
 - 🔬 Etudiante ingénieure en 2 ème année génie informatique 
-- 🚀 passionnée par Devops , l'automatisation des tests et l'acquisition de tous les aspects des nouvelles technologies qui apparaissent chaque jour.
+- 🚀 passionnée par Devops , l'automatisation des tests et l'acquisition de tous les aspects des nouvelles technologies .
 - 🌐  Je travaille aussi sur d’autres compétences tels que la gestion de projet, la communication et la résolution de problèmes .
 
 ## Compétences
-### Langages de programmation
-- 💡 JavaScript
-- 🐍 Python
-- ☕ Java
-
-### Frameworks
-- 🌐 Django 
-- 📦 Odoo 
-- 🌐 Spring Boot 
-- 🅰️ Angular 
+### Langages de programmation et Frameworks
+| Langage               | Framework               |
+|-----------------------|-------------------------|
+| 💡 JavaScript         | 🅰️ Angular (JavaScript) |
+| 🐍 Python              | 🌐 Django (Python)      |
+| ☕ Java                | 🌐 Spring Boot (Java)   |
 
 ### Automatisation des tests
 - 🧪 TestLink
