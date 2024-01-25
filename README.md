@@ -7,20 +7,34 @@
 - 🌐  Je travaille aussi sur d’autres compétences tels que la gestion de projet, la communication et la résolution de problèmes .
 
 ## Compétences
-### Langages de programmation, Frameworks, Automatisation des tests et Outils DevOps
-| Langage               | Framework               | Automatisation des Tests      | Outils DevOps         |
-|-----------------------|-------------------------|------------------------------|-----------------------|
-| 💡 JavaScript         | 🅰️ Angular (JavaScript) | 🧪 TestLink                   | 📅 Jira               |
-| 🐍 Python              | 🌐 Django (Python)      | 🤖 Sélénium                  | 🔄 Git                |
-| ☕ Java                | 🌐 Spring Boot (Java)   | 📝 TestNG                    | 🚀 Jenkins            |
-|                       |                         | 📬 Postman                   | 🐳 Docker             |
-|                       |                         | ⚙️ Jmeter                    | ☸️ Kubernetes         |
-|                       |                         | 🤖 Robot Framework           | 🔄 Ansible            |
-|                       |                         |                              | 📈 Prometheus         |
-|                       |                         |                              | 📊 Grafana            |
-|                       |                         |                              | ☁️ Azure              |
-## Me Contacter
 
+### Langages de programmation et Frameworks
+| Langage               | Framework       |
+|-----------------------|-----------------|
+| 💡 JavaScript         | 🅰️ Angular      |
+| 🐍 Python              | 🌐 Django       |
+| ☕ Java                | 🌐 Spring Boot  |
+
+### Automatisation des tests
+- 🧪 TestLink
+- 🤖 Sélénium
+- 📝 TestNG
+- 📬 Postman
+- ⚙️ Jmeter
+- 🤖 Robot Framework
+
+### DevOps
+- 📅 Jira
+- 🔄 Git
+- 🚀 Jenkins
+- 🐳 Docker
+- ☸️ Kubernetes
+- 🔄 Ansible
+- 📈 Prometheus
+- 📊 Grafana
+- ☁️ Azure
+  
+## Me Contacter
 - 📧 Email : [faten.gargouri@hotmail.com](mailto:faten.gargouri@hotmail.com)
 - 🔗 LinkedIn : [Faten Gargouri](https://www.linkedin.com/in/faten-gargouri/)
 - 💼 GitHub : [github.com/FatenGargouri](https://github.com/FatenGargouri)
