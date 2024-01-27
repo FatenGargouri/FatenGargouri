@@ -12,7 +12,8 @@
 💡 JavaScript   🐍 Python   ☕ Java
 
 ### Frameworks
-🅰️ Angular (JavaScript)   🌐 Django (Python)   🎭 Spring Boot (Java)
+🅰️ Angular  🌐 Django  🎭 Spring Boot  🚀 Odoo  🅱️ Bootstrap 
+
 
 ### DevOps
 📅 Jira   🔄 Git   🚀 Jenkins   🐳 Docker   ☸️ Kubernetes   🔄 Ansible   📈 Prometheus   📊 Grafana   ☁️ Azure
