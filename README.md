@@ -14,12 +14,11 @@
 ### Frameworks
 🅰️ Angular  🌐 Django  🎭 Spring Boot  🚀 Odoo  🅱️ Bootstrap 
 
+### Automatisation des Tests
+🧪 TestLink   🤖 Sélénium   📝 TestNG   📬 Postman   ⚙️ Jmeter   🤖 Robot Framework
 
 ### DevOps
 📅 Jira   🔄 Git   🚀 Jenkins   🐳 Docker   ☸️ Kubernetes   🔄 Ansible   📈 Prometheus   📊 Grafana   ☁️ Azure
-
-### Automatisation des Tests
-🧪 TestLink   🤖 Sélénium   📝 TestNG   📬 Postman   ⚙️ Jmeter   🤖 Robot Framework
 
 ## Me Contacter
 - 📧 Email : [faten.gargouri@hotmail.com](mailto:faten.gargouri@hotmail.com)
