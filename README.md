@@ -1,5 +1,5 @@
 # Bienvenue sur mon Profil GitHub 👋
-![DevOps](https://raw.githubusercontent.com/FatenGargouri/FatenGargouri/main/devopss.png)
+![DevOps](https://raw.githubusercontent.com/FatenGargouri/FatenGargouri/main/Capture.png)
 
 ## À Propos de Moi
 - 🔬 Étudiante ingénieure en 3ème année de génie informatique à l'ISIMS.
